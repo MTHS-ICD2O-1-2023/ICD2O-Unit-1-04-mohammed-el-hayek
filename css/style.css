@@ -1,4 +1,22 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Mohammed El-Hayek
+* Created on: Feb 2024
 * This file contains the CSS for index.html
 */
+
+
+body {
+  background-color: blanchedalmond;
+}
+
+
+h1 {
+  background-color: rgb(181, 240, 61);
+  color: hsl(0, 96%, 37%);
+  padding: 40px;
+  text-align: center;
+}
+
+
+p {
+  background-color: brown;
+}
